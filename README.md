@@ -1,0 +1,2 @@
+# reconhecimentoDeVoz
+Linguagem Python
